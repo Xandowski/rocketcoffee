@@ -9,16 +9,16 @@ This application was developed during Maratona Explorer 3.0, made by [Rocketseat
 
 <div align="center">
 
-[![Languages](https://img.shields.io/github/languages/count/xandowski/feedget?color=995000)]()
-[![RespositorySize](https://img.shields.io/github/repo-size/xandowski/feedget?color=995000)]()
-[![lastCommit](https://img.shields.io/github/last-commit/xandowski/feedget?color=995000)]()
+[![Languages](https://img.shields.io/github/languages/count/xandowski/rocketcoffee?color=995000)]()
+[![RespositorySize](https://img.shields.io/github/repo-size/xandowski/rocketcoffee?color=995000)]()
+[![lastCommit](https://img.shields.io/github/last-commit/xandowski/rocketcoffee?color=995000)]()
 
 [![Rocketseat](https://badgen.net/discord/members/Rocketseat?color=995000)](https://discord.gg/rocketseat)
 </div>
 
 ## ▶ Preview
 
-[![button](src/assets/button.png)]()
+[![button](src/assets/button.png)](https://xandowski-rocketcoffe.netlify.app/)
 
 ## 📃 About
 
